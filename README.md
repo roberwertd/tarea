@@ -39,3 +39,4 @@ class Circulo : Figura2D {
  setColor(NINGUNO); // OK
  }
 }
+
